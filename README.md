@@ -1,0 +1,1 @@
+This is a school project, it's a simple multi-page website built with HTML and styled using Tailwind CSS. The website includes a Home page, an About page, and a Contact page.
